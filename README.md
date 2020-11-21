@@ -12,4 +12,4 @@ Recordings will be posted here
 * [I find your lack of Azure Functions disturbing" by Tiago Costa, MVP & MCT](03-azure-functions/M365Bootcamp%20-%20Tiago%20Costa.pdf)
 * [Speak human, not robot! by Carlos Silva](04-cognitive-services/M365Bootcamp%20-%20Carlos%20Miguel%20Silva.pdf) 
 * Power Automate tips and tricks by Sandro Pereira, MVP
-* Using Power Automate with Microsoft Graph by André Vala and Manuel Gomes
+* [Using Power Automate with Microsoft Graph by André Vala and Manuel Gomes](06-power-automate-ms-graph/M365DB%202020%20-%20Using%20Power%20Automate%20with%20Microsoft%20Graph.pdf)
