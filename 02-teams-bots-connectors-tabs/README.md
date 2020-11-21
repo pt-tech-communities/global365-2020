@@ -1,5 +1,6 @@
 # Session: Microsoft Teams with bots, connectors and tabs
 Speaker: Nuno Arias Silva
+Twitter: [@NunoAriasSilva](https://twitter.com/NunoAriasSilva)
 
 ## Resources
 * [Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program)

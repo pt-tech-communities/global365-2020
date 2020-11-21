@@ -1,9 +1,9 @@
 # Session: Using Power Automate with Microsoft Graph
 Speaker: André Vala - 
-Twitter: [@](https://twitter.com/)
+Twitter: [@atomicvee](https://twitter.com/atomicvee)
 
 Speaker: Manuel Gomes - 
-Twitter: [@](https://twitter.com/)
+Twitter: [@manueltgomes](https://twitter.com/manueltgomes)
 
 ## Resources
 * [INSER TITLE HERE](INSERT LINK HERE)
