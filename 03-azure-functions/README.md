@@ -2,7 +2,7 @@
 Speaker: Tiago Costa
 Twitter: [@tiagocostapt](https://twitter.com/tiagocostapt)
 Website: [https://www.tiagocosta.com](https://www.tiagocosta.com)
-YoutTube: [https://www.youtube.com/c/tiagocostamct/](https://www.youtube.com/c/tiagocostamct/)
+YouTube: [https://www.youtube.com/c/tiagocostamct/](https://www.youtube.com/c/tiagocostamct/)
 
 ## Labs
 You can take some labs about this topic. Here you can find a consolidated list:
