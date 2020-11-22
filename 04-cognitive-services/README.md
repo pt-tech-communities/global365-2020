@@ -17,5 +17,8 @@ You can take some labs about this topic. Here you can find a consolidated list:
 * [Quickstart: Synthesize speech in C# under .NET Framework for Windows](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/csharp/dotnet/text-to-speech)
 * [Text-to-speech REST API](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-text-to-speech)
 
+## Demo 
+* [Github project demo](https://github.com/carlosmiguelsns/text-to-speech)
+
 
 Note: In order to take this labs you need an Azure Subscription. You can get a Free trial at: https://azure.microsoft.com/en-us/free/
